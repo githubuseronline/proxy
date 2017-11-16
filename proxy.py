@@ -6,9 +6,7 @@ from optparse import OptionParser, OptionGroup
 if __name__ == '__main__':
 
     ################################################################################
-
     # Parse command line args and options
-
     ################################################################################
     parser = OptionParser(description='DNS Proxy.')
 
